@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Hi my name is Luis Medina
 
-You can use the [editor on GitHub](https://github.com/LuiCalibur19/LuiCalibur19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+They are many questions and curiosity that I have towards the life of coding and software development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*This interest began when I got into the interest of professional gaming :joystick: 
 
-### Markdown
+### Wanting to learn Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python is one of the first languages of computer porgramming the I want to learn I find it quite interesting and
+I believe that based on my career that its going to be a coding language ill be using very often.
 
-```markdown
-Syntax highlighted code block
+###### Why im making this page in the first place
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuiCalibur19/LuiCalibur19.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am in a software development class and learning how to make a webpage thru GitHub which is actually quite nice and interesting and making it in this language of coding way different than the HTML language
+![GitHub Logo](/Pokemon.png)
