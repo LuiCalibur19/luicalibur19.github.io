@@ -3,7 +3,7 @@
 They are many questions and curiosity that I have towards the life of coding and software development
 
 *This interest began when I got into the interest of professional gaming 
-:joystick: 
+:volleyball: 
 
 ### Wanting to learn Python
 
