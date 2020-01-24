@@ -2,7 +2,8 @@
 
 They are many questions and curiosity that I have towards the life of coding and software development
 
-*This interest began when I got into the interest of professional gaming :joystick: 
+*This interest began when I got into the interest of professional gaming 
+:joystick: 
 
 ### Wanting to learn Python
 
@@ -12,4 +13,4 @@ I believe that based on my career that its going to be a coding language ill be 
 ###### Why im making this page in the first place
 
 I am in a software development class and learning how to make a webpage thru GitHub which is actually quite nice and interesting and making it in this language of coding way different than the HTML language
-![GitHub Logo](/Pokemon.png)
+
